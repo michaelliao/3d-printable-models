@@ -23,6 +23,8 @@ Printable 3D models:
 
 ## Screw Measuring tool
 
+![img](screw-measuring-tool/screw-measuring-tool.png)
+
 A useful screw measuring tool for quickly measuring bolts and nuts with GB standard M2, M2.5, M3, M4, M5, M6, M8 and M10.
 
 - [SolidWorks Source](screw-measuring-tool/screw-measuring-tool.SLDPRT)
