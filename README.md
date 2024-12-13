@@ -10,7 +10,7 @@
 
 可快速测量国标M2、M2.5、M3、M4、M5、M6、M8、M10的螺栓和螺母。
 
-- [SolidWorks模型](screw-measuring-tool/screw-measuring-tool.SLDPRT)
+- [SolidWorks模型](screw-measuring-tool/source)
 - [3MF格式](screw-measuring-tool/screw-measuring-tool.3MF)
 - [STEP格式](screw-measuring-tool/screw-measuring-tool.STEP)
 - [STL格式](screw-measuring-tool/screw-measuring-tool.STL)
@@ -27,7 +27,7 @@ Printable 3D models:
 
 A useful screw measuring tool for quickly measuring bolts and nuts with GB standard M2, M2.5, M3, M4, M5, M6, M8 and M10.
 
-- [SolidWorks Source](screw-measuring-tool/screw-measuring-tool.SLDPRT)
+- [SolidWorks Source](screw-measuring-tool/source)
 - [3MF File](screw-measuring-tool/screw-measuring-tool.3MF)
 - [STEP File](screw-measuring-tool/screw-measuring-tool.STEP)
 - [STL File](screw-measuring-tool/screw-measuring-tool.STL)
