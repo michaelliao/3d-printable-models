@@ -20,7 +20,7 @@
 
 一个带笔筒的桌面比特币时钟，使用一节5号电池。
 
-- [MakerWorld打印](https://makerworld.com/models/1555117-bitcoin-clock)
+- [MakerWorld打印](https://makerworld.com.cn/models/1555117-bitcoin-clock)
 - [SolidWorks模型](bitcoin-clock/source)
 - [3MF格式](bitcoin-clock/bitcoin-clock.3MF)
 - [STEP格式](bitcoin-clock/step)
