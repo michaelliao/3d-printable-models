@@ -4,6 +4,16 @@
 
 可直接3D打印的模型，包括：
 
+## CyberBrick遥控器
+
+![img](cyberbrick-remote/cyberbrick-remote.png)
+
+与官方遥控器布局兼容的锂电池版本，增加LED指示灯。
+
+- [SolidWorks模型](cyberbrick-remote/source)
+- [3MF格式](cyberbrick-remote/cyberbrick-remote.3MF)
+- [STEP格式](cyberbrick-remote/step)
+
 ## 比特币时钟
 
 ![img](bitcoin-clock/bitcoin-clock.png)
@@ -31,6 +41,16 @@
 # 3D Printable Models | [3D打印模型](#chs)
 
 3D printable models:
+
+## CyberBrick Remote
+
+![img](cyberbrick-remote/cyberbrick-remote.png)
+
+Remote with Li-Battery and LED, compatible with official remote.
+
+- [SolidWorks Model](cyberbrick-remote/source)
+- [3MF File](cyberbrick-remote/cyberbrick-remote.3MF)
+- [STEP File](cyberbrick-remote/step)
 
 ## Bitcoin Clock
 
