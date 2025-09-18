@@ -24,7 +24,6 @@
 - [SolidWorks模型](bitcoin-clock/source)
 - [3MF格式](bitcoin-clock/bitcoin-clock.3MF)
 - [STEP格式](bitcoin-clock/step)
-- [STL格式](bitcoin-clock/stl)
 
 ## 螺丝测量器
 
@@ -36,7 +35,17 @@
 - [SolidWorks模型](screw-measuring-tool/source)
 - [3MF格式](screw-measuring-tool/screw-measuring-tool.3MF)
 - [STEP格式](screw-measuring-tool/step)
-- [STL格式](screw-measuring-tool/stl)
+
+## 镊子收纳盒
+
+![img](tweezers-storage-box/tweezers-storage-box.png)
+
+可收纳4个镊子。
+
+- [MakerWorld打印](https://makerworld.com.cn/zh/models/1595507-tweezers-storage-box)
+- [SolidWorks模型](tweezers-storage-box/source)
+- [3MF格式](tweezers-storage-box/tweezers-storage-box.3MF)
+- [STEP格式](tweezers-storage-box/step)
 
 <a name="english"></a>
 
@@ -64,7 +73,6 @@ A desktop Bitcoin clock with a pen holder, powered by an AA battery.
 - [SolidWorks Model](bitcoin-clock/source)
 - [3MF File](bitcoin-clock/bitcoin-clock.3MF)
 - [STEP File](bitcoin-clock/step)
-- [STL File](bitcoin-clock/stl)
 
 ## Screw Measuring tool
 
@@ -76,4 +84,14 @@ A useful screw measuring tool for quickly measuring bolts and nuts with GB stand
 - [SolidWorks Model](screw-measuring-tool/source)
 - [3MF File](screw-measuring-tool/screw-measuring-tool.3MF)
 - [STEP File](screw-measuring-tool/step)
-- [STL File](screw-measuring-tool/stl)
+
+## Tweezers Storage Box
+
+![img](tweezers-storage-box/tweezers-storage-box.png)
+
+Can hold 4 tweezers.
+
+- [MakerWorld](https://makerworld.com/models/1804980-tweezers-storage-box)
+- [SolidWorks Model](tweezers-storage-box/source)
+- [3MF File](tweezers-storage-box/tweezers-storage-box.3MF)
+- [STEP File](tweezers-storage-box/step)
