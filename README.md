@@ -10,6 +10,7 @@
 
 与官方遥控器布局兼容的锂电池版本，增加LED指示灯。
 
+- [MakerWorld打印](https://makerworld.com.cn/models/1599181-cyberbrick-remote-li-battery-version)
 - [SolidWorks模型](cyberbrick-remote/source)
 - [3MF格式](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP格式](cyberbrick-remote/step)
@@ -59,6 +60,7 @@
 
 Remote with Li-Battery and LED, compatible with official remote.
 
+- [MakerWorld Print](https://makerworld.com/models/1808814-cyberbrick-remote-li-battery-version)
 - [SolidWorks Model](cyberbrick-remote/source)
 - [3MF File](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP File](cyberbrick-remote/step)
@@ -69,7 +71,7 @@ Remote with Li-Battery and LED, compatible with official remote.
 
 A desktop Bitcoin clock with a pen holder, powered by an AA battery.
 
-- [MakerWorld](https://makerworld.com/models/885209-bitcoin-clock)
+- [MakerWorld Print](https://makerworld.com/models/885209-bitcoin-clock)
 - [SolidWorks Model](bitcoin-clock/source)
 - [3MF File](bitcoin-clock/bitcoin-clock.3MF)
 - [STEP File](bitcoin-clock/step)
@@ -80,7 +82,7 @@ A desktop Bitcoin clock with a pen holder, powered by an AA battery.
 
 A useful screw measuring tool for quickly measuring bolts and nuts with GB standard M2, M2.5, M3, M4, M5, M6, M8 and M10.
 
-- [MakerWorld](https://makerworld.com/models/841870-screw-measuring-tool)
+- [MakerWorld Print](https://makerworld.com/models/841870-screw-measuring-tool)
 - [SolidWorks Model](screw-measuring-tool/source)
 - [3MF File](screw-measuring-tool/screw-measuring-tool.3MF)
 - [STEP File](screw-measuring-tool/step)
@@ -91,7 +93,7 @@ A useful screw measuring tool for quickly measuring bolts and nuts with GB stand
 
 Can hold 4 tweezers.
 
-- [MakerWorld](https://makerworld.com/models/1804980-tweezers-storage-box)
+- [MakerWorld Print](https://makerworld.com/models/1804980-tweezers-storage-box)
 - [SolidWorks Model](tweezers-storage-box/source)
 - [3MF File](tweezers-storage-box/tweezers-storage-box.3MF)
 - [STEP File](tweezers-storage-box/step)
