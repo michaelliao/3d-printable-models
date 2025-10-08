@@ -15,6 +15,17 @@
 - [3MF格式](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP格式](cyberbrick-remote/step)
 
+## 吧唧摩天轮
+
+![img](badge-ferris-wheel/badge-ferris-wheel.png)
+
+用于展示58mm吧唧的摩天轮，一共可以展示9个吧唧。
+
+- [MakerWorld打印](https://makerworld.com.cn/models/######)
+- [SolidWorks模型](badge-ferris-wheel/source)
+- [3MF格式](badge-ferris-wheel/badge-ferris-wheel.3MF)
+- [STEP格式](badge-ferris-wheel/step)
+
 ## 比特币时钟
 
 ![img](bitcoin-clock/bitcoin-clock.png)
@@ -64,6 +75,17 @@ Remote with Li-Battery and LED, compatible with official remote.
 - [SolidWorks Model](cyberbrick-remote/source)
 - [3MF File](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP File](cyberbrick-remote/step)
+
+## 吧唧摩天轮
+
+![img](badge-ferris-wheel/badge-ferris-wheel.png)
+
+The Ferris wheel that is used to display 58mm badges, and can display a total of 9 badges.
+
+- [MakerWorld Print](https://makerworld.com/models/1867225-badge-ferris-wheel)
+- [SolidWorks Model](badge-ferris-wheel/source)
+- [3MF File](badge-ferris-wheel/badge-ferris-wheel.3MF)
+- [STEP File](badge-ferris-wheel/step)
 
 ## Bitcoin Clock
 
