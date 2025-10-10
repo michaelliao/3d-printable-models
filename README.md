@@ -21,7 +21,7 @@
 
 用于展示58mm吧唧的摩天轮，一共可以展示9个吧唧。
 
-- [MakerWorld打印](https://makerworld.com.cn/models/######)
+- [MakerWorld打印](https://makerworld.com.cn/models/1659285-ba-ji-mo-tian-lun-badge-ferris-wheel)
 - [SolidWorks模型](badge-ferris-wheel/source)
 - [3MF格式](badge-ferris-wheel/badge-ferris-wheel.3MF)
 - [STEP格式](badge-ferris-wheel/step)
