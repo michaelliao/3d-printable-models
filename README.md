@@ -93,7 +93,7 @@ Remote with Li-Battery and LED, compatible with official remote.
 
 Harry Potter 9¾ Platform Light.
 
-- [MakerWorld Print](https://makerworld.com.cn/models/1902427-93-4-light)
+- [MakerWorld Print](https://makerworld.com/models/1902427-93-4-light)
 - [SolidWorks Model](9-4-3-light/source)
 - [3MF File](9-4-3-light/9-4-3-light.3MF)
 - [STEP File](9-4-3-light/step)
