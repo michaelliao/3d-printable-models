@@ -15,6 +15,17 @@
 - [3MF格式](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP格式](cyberbrick-remote/step)
 
+## 9¾站台灯
+
+![img](9-4-3-light/9-4-3-light.png)
+
+哈利波特著名的9¾站台灯。
+
+- [MakerWorld打印](https://makerworld.com.cn/models/1686416-93-4-light)
+- [SolidWorks模型](9-4-3-light/source)
+- [3MF格式](9-4-3-light/9-4-3-light.3MF)
+- [STEP格式](9-4-3-light/step)
+
 ## 吧唧摩天轮
 
 ![img](badge-ferris-wheel/badge-ferris-wheel.png)
@@ -75,6 +86,17 @@ Remote with Li-Battery and LED, compatible with official remote.
 - [SolidWorks Model](cyberbrick-remote/source)
 - [3MF File](cyberbrick-remote/cyberbrick-remote.3MF)
 - [STEP File](cyberbrick-remote/step)
+
+## 9¾ Platform Light
+
+![img](9-4-3-light/9-4-3-light.png)
+
+Harry Potter 9¾ Platform Light.
+
+- [MakerWorld Print](https://makerworld.com.cn/models/1902427-93-4-light)
+- [SolidWorks Model](9-4-3-light/source)
+- [3MF File](9-4-3-light/9-4-3-light.3MF)
+- [STEP File](9-4-3-light/step)
 
 ## 吧唧摩天轮
 
